@@ -38,6 +38,11 @@
                 "format": "text",
                 "field": "user.name"
               },
+              {
+                "label": "User Name",
+                "format": "text",
+                "field": "user.screen_name"
+              },
             ]
           }
         }
