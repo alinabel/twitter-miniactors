@@ -38,36 +38,6 @@
                 "format": "text",
                 "field": "user.name"
               },
-              {
-                "label": "Tweet",
-                "format": "text",
-                "field": "full_text"
-              },
-              {
-                "label": "Replies",
-                "format": "number",
-                "field": "reply_count"
-              },
-              {
-                "label": "Retweets",
-                "format": "number",
-                "field": "retweet_count"
-              },
-              {
-                "label": "Favourites",
-                "format": "number",
-                "field": "favorite_count"
-              },
-              {
-                "label": "URL",
-                "format": "link",
-                "field": "url"
-              },
-              {
-                "label": "Date",
-                "format": "date",
-                "field": "created_at"
-              }
             ]
           }
         }
